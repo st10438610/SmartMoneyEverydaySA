@@ -131,9 +131,9 @@ Bank API integration for real-time transactions
 
 👨‍💻 Authors
 
-Phathutshedzo Kevin Makherana Aspiring Software Developer | Future Cybersecurity Specialist
+Phathutshedzo Kevin Makherana: Aspiring Software Developer | Future Cybersecurity Specialist
 
-Neo Madima Software Developer
+Neo Madima: Software Developer
 
 📄 License
 
